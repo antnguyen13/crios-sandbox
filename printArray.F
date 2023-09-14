@@ -19,4 +19,5 @@
       
         WRITE(*,*) "Array = ", arr
         WRITE(*,*) "Array size = ", SIZE(arr)
+        write(*,*) "atn comment: done fortran!"
       END PROGRAM  writeArray
